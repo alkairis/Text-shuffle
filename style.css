@@ -38,23 +38,23 @@ body {
 }
 
 .red {
-  color: #e85c3c;
+  color: #ff0000;
 }
 
-.purple {
-  color: #8e44ad;
+.orange {
+  color: #ffa500;
 }
 
-.blue {
-  color: #3498db;
+.yellow {
+  color: #f1c40f;
 }
 
 .green {
   color: #2ecc81;
 }
 
-.yellow {
-  color: #f1c40f;
+.blue {
+  color: #3498db;
 }
 
 /*# sourceMappingURL=style.css.map */
